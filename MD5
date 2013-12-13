@@ -1,0 +1,11 @@
+b433d5324ec32d03b58ba22f65fe4de0 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+0c0effd250cab17192905bb5650b99cf *R/functions_package.R
+249c727feb4b6cc217367e8ffd5c241c *data/fr.data.lpue.rda
+dd0f92c9fdfd6685888bdde4fcfbfd7d *data/input.data.rda
+5c0787fc9546770bfd81b2a128b67c9d *man/cuttlefish.model-package.Rd
+6f478d70dfb8e41198d19d46bb9b3703 *man/delta.glm.Rd
+c1da17da20d4c3d788e329c2051faac3 *man/fr.data.lpue.Rd
+7ddb958fe0450f67f6a67234e3250021 *man/input.data.Rd
+fde09ffd767c71adac85f725e995c21e *man/two.stage.model.fit.Rd
+09db4867338c7e489725b9f08f11cf51 *man/two.stage.model.outputs.Rd
